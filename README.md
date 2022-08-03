@@ -10,9 +10,9 @@ Determined the Summary Statistics for June and December in Oahu, Hawaii in order
 - In June months the lowest temperature was 64℉ and the lowest December temperature was 56℉
 - In June months the highest temperature was 85℉ and the highest December temperature was 83℉
 
-![June_Temps]()
+![June_Temps](https://github.com/xanderbilt23/surfs_up/blob/main/Resources/June_Temps.png)
 
-![December_Temps]()
+![December_Temps](https://github.com/xanderbilt23/surfs_up/blob/main/Resources/December_Temps.png)
 
 ## Summary
 
